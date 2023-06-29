@@ -1,4 +1,8 @@
 import { createApp } from 'vue'
-import App from './App.vue'
+import Dashboard from './components/Dashboard'
 
-createApp(App).mount('#app')
+
+
+
+
+createApp(Dashboard).mount('#app')
