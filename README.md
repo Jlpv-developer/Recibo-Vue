@@ -14,13 +14,6 @@ Frontend: Vue.js 3
 ### Historias
 ```
 Agregar datos
-(https://github.com/Jlpv-developer/Recibo-Vue/blob/main/crear.png)
+Listar Datos Ingresados
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
