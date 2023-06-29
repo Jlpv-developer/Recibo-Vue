@@ -1,18 +1,20 @@
-# axios-example
+# Reto
 
-## Project setup
+## Resumen
 ```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
+El reto consiste en crear servicios Rest y consumirlos con un framework de js.
 ```
 
-### Compiles and minifies for production
+### Tecnologías
 ```
-npm run build
+Backend: Net Core 6 con arquitectura MVC
+Frontend: Vue.js 3 
+```
+
+### Historias
+```
+Agregar datos
+(https://github.com/Jlpv-developer/Recibo-Vue/blob/main/crear.png)
 ```
 
 ### Lints and fixes files
